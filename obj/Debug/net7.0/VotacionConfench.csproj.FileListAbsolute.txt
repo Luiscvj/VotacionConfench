@@ -1,0 +1,15 @@
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/bin/Debug/net7.0/VotacionConfench
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/bin/Debug/net7.0/VotacionConfench.deps.json
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/bin/Debug/net7.0/VotacionConfench.runtimeconfig.json
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/bin/Debug/net7.0/VotacionConfench.dll
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/bin/Debug/net7.0/VotacionConfench.pdb
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.csproj.AssemblyReference.cache
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.AssemblyInfoInputs.cache
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.AssemblyInfo.cs
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.csproj.CoreCompileInputs.cache
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.dll
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/refint/VotacionConfench.dll
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.pdb
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/VotacionConfench.genruntimeconfig.cache
+/home/skylab-108/Luisc/Algoritmia/Prueba-Algoritmia/VotacionConfench/obj/Debug/net7.0/ref/VotacionConfench.dll
